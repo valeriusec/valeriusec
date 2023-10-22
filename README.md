@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeriu</h1>
-<p align="center">I'm a self-taught front-end developer with a passion for creating beautiful and functional websites. I specialize in HTML, CSS, JavaScript, and React.</p>
+<p align="center">I'm a self-taught web developer with a passion for creating beautiful and functional websites. I specialize in HTML, CSS, JavaScript, and React.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriusec&label=Profile%20views&color=0e75b6&style=flat" alt="valeriusec" /> </p>
 
